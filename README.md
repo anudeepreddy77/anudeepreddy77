@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
+- 👨‍💻 All of my projects are available at [https://anudeep-reddy-portfolio.herokuapp.com/](https://anudeep-reddy-portfolio.herokuapp.com/)
+
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **anudeepreddy1202@gmail.com**
