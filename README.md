@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn.ttgtmedia.com/visuals/IoTAgenda/business_of_iot/iotagenda_article_003.jpg)
-<h1 align="center">Hi 👋, I'm Anudeep Reddy</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anudeep Reddy</h1>
 <h3 align="center">I'm a passionate Data Scientist from India.</h3>
 
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍💻 My portfolio [https://anudeep-reddy-portfolio.herokuapp.com/](https://anudeep-reddy-portfolio.herokuapp.com/)
+- 👨‍💻 Portfolio <a href="https://anudeep-reddy-portfolio.herokuapp.com/"><b>My Portfolio</b></a>
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
