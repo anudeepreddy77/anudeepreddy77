@@ -40,3 +40,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeepreddy77&label=Profile%20views&color=0e75b6&style=flat" alt="anudeepreddy77" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anudeepreddy77&show_icons=true&locale=en&layout=compact" alt="anudeepreddy77" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anudeepreddy77&show_icons=true&locale=en" alt="anudeepreddy77" /></p>
+
