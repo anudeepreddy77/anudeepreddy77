@@ -3,13 +3,13 @@
 <h3 align="center">I'm a passionate Data Scientist from India.</h3>
 
 
-- 🔭 Currently **Data Scientist at AmberFlux EdgeAI Private Limited**
+- 👨‍💻 Currently working as **Data Scientist at AmberFlux EdgeAI Private Limited**
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍💻 Portfolio <a href="https://anudeep-reddy-portfolio.herokuapp.com/"><b>My Portfolio</b></a>
+- 👨‍Portfolio <a href="https://anudeep-reddy-portfolio.herokuapp.com/"><b>My Portfolio</b></a>
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
