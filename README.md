@@ -3,7 +3,9 @@
 <h3 align="center">I'm a passionate Data Scientist from India.</h3>
 
 
-- 🔭 I’m currently working on **Machine Learning & Deep Learning Projects**
+- 🔭 Currently **Data Scientist at AmberFlux EdgeAI Private Limited**
+
+- 🔭 I’m currently working on **Natural Language Processing**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
