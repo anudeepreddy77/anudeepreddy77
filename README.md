@@ -3,10 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anudeep Reddy</h1>
 <h3 align="center">I'm a passionate Data Scientist from India.</h3>
 
-<!-- Add a fun and crazy image -->
-<div align="center">
-    <img src="https://imgupscaler.com/images/samples/animal-after.webp" alt="Crazy GIF" width="200"/>
-</div>
 
 - 👨‍💻 Currently working as **Data Scientist at AmberFlux EdgeAI Private Limited**
 
@@ -54,4 +50,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anudeepreddy77&show_icons=true&locale=en&layout=compact" alt="anudeepreddy77" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anudeepreddy77&show_icons=true&locale=en" alt="anudeepreddy77" /></p>
-
