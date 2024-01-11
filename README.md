@@ -1,4 +1,5 @@
-![MasterHead](https://cdn.ttgtmedia.com/visuals/IoTAgenda/business_of_iot/iotagenda_article_003.jpg)
+![MasterHead](https://cdn.ttgtmedia.com/visuals/IoTAgenda/business_of_iot/iotagenda_article_003.jpg)<br>
+![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.toiimg.com%2Fphoto%2Fmsid-82270061%2F82270061.jpg&tbnid=4nyiL67816U4CM&vet=12ahUKEwiIy6HXztWDAxWeTGwGHYXbD1YQMyhDegUIARD8AQ..i&imgrefurl=https%3A%2F%2Fm.timesofindia.com%2Fspotlight%2Fbeyond-formal-education-this-is-where-the-billion-dollar-data-science-analytics-industry-picks-its-talent-from%2Farticleshow%2F82270035.cms&docid=tYra6SHMGlRV-M&w=1200&h=900&q=data%20scientist%20related%20annimations&ved=2ahUKEwiIy6HXztWDAxWeTGwGHYXbD1YQMyhDegUIARD8AQ)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anudeep Reddy</h1>
 <h3 align="center">I'm a passionate Data Scientist from India.</h3>
 
