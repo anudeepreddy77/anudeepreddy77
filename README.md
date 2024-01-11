@@ -1,6 +1,5 @@
 ![MasterHead](https://cdn.ttgtmedia.com/visuals/IoTAgenda/business_of_iot/iotagenda_article_003.jpg)<br>
-![MasterHead](https://cdn.ttgtmedia.com/visuals/IoTAgenda/business_of_iot/iotagenda_article_003.jpg)<br>
-![MasterHead]((https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif))<br>
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theaidream.com%2Ftheaidream%2Fcategories%2Fdata-science&psig=AOvVaw3NfzdKoA-u4kMcBeqtJNTx&ust=1705072367752000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDi89rP1YMDFQAAAAAdAAAAABAn)<br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anudeep Reddy</h1>
 <h3 align="center">I'm a passionate Data Scientist from India.</h3>
