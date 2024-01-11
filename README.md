@@ -5,7 +5,7 @@
 
 <!-- Add a fun and crazy image -->
 <div align="center">
-    <img src="https://i.imgur.com/your-crazy-image.gif" alt="Crazy GIF" width="200"/>
+    <img src="https://imgupscaler.com/images/samples/animal-after.webp" alt="Crazy GIF" width="200"/>
 </div>
 
 - 👨‍💻 Currently working as **Data Scientist at AmberFlux EdgeAI Private Limited**
