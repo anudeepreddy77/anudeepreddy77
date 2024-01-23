@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*Urc28sbnORGOW5oyohQ06g.gif)<br>
+![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*XAV25ZJZJtceOJ1Vx6TeDw.gif)<br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anudeep Reddy</h1>
 <h3 align="center">I'm a passionate Data Scientist from India.</h3>
