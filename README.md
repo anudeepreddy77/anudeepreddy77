@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍Portfolio <a href="https://anudeepreddy77.github.io/anudeepreddy/"><b>My Portfolio</b></a>
+- 👨‍Portfolio <a href="https://anudeepreddy77.github.io/portfolio/"><b>My Portfolio</b></a>
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
